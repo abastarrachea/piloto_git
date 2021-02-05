@@ -8,3 +8,7 @@ Prueba de git
 # Probando
 
 # Testeo
+
+# prueba reset
+
+# prueba rm
