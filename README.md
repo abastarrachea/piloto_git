@@ -12,3 +12,5 @@ Prueba de git
 # prueba reset
 
 # prueba rm
+
+# git
